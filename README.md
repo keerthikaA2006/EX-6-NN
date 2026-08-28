@@ -1,7 +1,7 @@
 <H3>NAME: KEERTHIKA A</H3>
 <H3>REG NO: 212224220048</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE: 27/08/2026</H3>
+<H3>DATE: 28/08/2026</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python

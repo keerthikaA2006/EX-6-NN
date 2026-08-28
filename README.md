@@ -75,6 +75,7 @@ print("Classification Report:\n",classification_rep)
 ```
 
 <H3>Output:</H3>
+<img width="642" height="566" alt="image" src="https://github.com/user-attachments/assets/1e356cf9-a696-47a1-aeeb-1707455a2ae7" />
 
 
 
